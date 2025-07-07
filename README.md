@@ -32,6 +32,7 @@ This project presents an interactive Power BI dashboard built to analyze e-comme
 ## Files
 
 - `Ecommerce_Sales_Dashboard.pbix` – Power BI dashboard file
+- https://github.com/Codexkiz/powerbi-ecommerce-sales-dashboard/blob/main/Screenshot%202025-07-07%20221320.png - Screenshot
 
 ## Notes
 
